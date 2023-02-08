@@ -34,7 +34,7 @@
           <a class="nav-link" href="variable.php">variable</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Link2</a>
+          <a class="nav-link" href="controlflow.php">control flow</a>
         </li>
         
       </ul>

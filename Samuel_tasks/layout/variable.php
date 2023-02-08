@@ -1,7 +1,6 @@
 <?php include "header.php" ?>
-<h4> Exersice 3 thi is variable operator</h4
->
- <h2>1. create assimpel html form to get the fist nmae and last name fromthe  </h2>
+
+ <h3>1. create assimpel html form to get the fist nmae and last name fromthe  </h3>
 <form action ="actio.php" method="post">
     <div class = "row">
         <div class ="col">
